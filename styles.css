@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(206, 213, 219);
+  font-family: monospace;
+  font-size: large;
+  color: rgb(95, 82, 70);
+}
+
+body {
+  font-family: 'Satisfy', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.about {
+  background-image: url('https://i.pinimg.com/564x/55/a6/1f/55a61fbfd2cde62f92d307632545661c.jpg');
+}
+
+.thank {
+  background-image: url(https://i.pinimg.com/564x/55/a6/1f/55a61fbfd2cde62f92d307632545661c.jpg);
+}
+
+.borderimg {
+  border: 5px solid rgb(112, 104, 76);
+}
+
+a{
+  text-decoration: none;
+  color:rgb(83, 76, 59);
+  font-weight: 600;
+}
+
+menu{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
